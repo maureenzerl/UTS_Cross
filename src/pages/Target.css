@@ -1,0 +1,17 @@
+.cari1{
+    align-items: center !important;
+    justify-content: center !important;
+    padding: auto !important;
+    margin: auto;
+    text-align: center;
+}
+.ava{
+    background: url('../photos/profil.jpg');
+    background-size: cover;
+}
+
+.gebetan ion-avatar{
+    height: 100px !important;
+    width: 100px !important;
+    border-radius: 0%;
+}
